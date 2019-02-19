@@ -1,2 +1,5 @@
-console.log('Hello branch')
-console.log('ficha')
+class User{
+	constructor(name){
+		this.name = name
+	}
+}
